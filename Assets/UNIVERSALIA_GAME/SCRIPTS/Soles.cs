@@ -15,7 +15,7 @@ public class Soles : MonoBehaviour
 
            
         {
-            objPuntos.GetComponent<Puntos>().puntos = puntosQueDa;
+            objPuntos.GetComponent<Puntos>().puntos += puntosQueDa;
               Destroy(gameObject);
         }
     }
