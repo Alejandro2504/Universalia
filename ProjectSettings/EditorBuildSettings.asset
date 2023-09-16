@@ -9,6 +9,21 @@ EditorBuildSettings:
     path: Assets/Scenes/Principal.unity
     guid: fe1b42389ab7f274fb33d687f6b50908
   - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: 6ea0820814d55fc46abc1a31fe017e95
+  - enabled: 1
     path: Assets/Scenes/Reino Desierto.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/Reino Agua Purificante.unity
+    guid: 1d5477c410d12e34fa362d379235f0bc
+  - enabled: 1
+    path: Assets/Scenes/Reino Fuego.unity
+    guid: c4f6bde1f63d7c347a7b6447866135e8
+  - enabled: 1
+    path: Assets/Scenes/Reino Aire.unity
+    guid: a440aeda17ada0349a4fbb86a4a1720e
+  - enabled: 1
+    path: Assets/Scenes/Desarrollador.unity
+    guid: 6295ed0b94dfba24293646aa432d3d9c
   m_configObjects: {}
